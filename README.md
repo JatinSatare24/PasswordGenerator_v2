@@ -1,10 +1,17 @@
-# 🔑 PasswordGenerator (v1.0)
-> **Foundational Logic & Basic Randomization**
+# 🔑 Password Generator (v2.0)
+> **Simple, functional randomization with logic-based character selection.**
 
-### 📝 Description
-The initial build of the Password Generator. Focused on the core mechanism of string manipulation and random index selection from a character pool.
+## 📝 Project Overview
+This is a JavaScript-based password generator. It focuses on taking a user-defined length and generating a random string of characters for security purposes.
 
-### ⚙️ Features
-- Generates a fixed-length alphanumeric string.
-- Simple `Math.random()` implementation.
-- Clean, focused JavaScript logic.
+## ✨ Features
+* **Random Generation:** Core logic utilizing `Math.random()`.
+* **Character Set:** Includes uppercase, lowercase, numbers, and symbols.
+
+## 🛠️ Usage
+1. Open `index.html`.
+2. Input the desired length.
+3. Click 'Generate' to see the result.
+
+---
+*Last updated: Jan 9, 2026*
